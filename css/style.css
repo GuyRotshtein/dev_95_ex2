@@ -53,11 +53,12 @@ header div{
     display: flex;
 }
 #top-panel img{
-    margin-top: 83px;
-    margin-left: 40px;
+    display: block;
+    margin-left: 38px;
+    margin-top: 82px;
     width: 426px;
     height: 388px;
-
+    border-radius: 100px;
 }
 #top-panel aside{
     margin-top: 83px;
